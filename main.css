@@ -396,3 +396,8 @@ input[type=text], select, textarea {
     color:#EF7779; 
     float: left;
   }
+  footer p{
+    margin-top:200px; 
+    color:#EF7779; 
+    margin-left: 500px;
+  }
