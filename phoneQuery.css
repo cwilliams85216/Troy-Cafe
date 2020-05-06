@@ -58,26 +58,30 @@
       width: 70px;
       height: 80px;
       border-radius: 15px;
+      
     }
     nav ul li ul li a {
-      padding: 15px 20px;
+      padding: 15px;
       width: 60px;
       height: 40px;
+     
     }
    
     /*menu item hover color*/
     nav ul li ul li a:hover {
       background-color: #ef7779;
       padding: 15px;
-      width: 60px;
+      width: 70px;
       height: 40px;
+      margin-left:-10px;
     }
     /*images in menu drop list */
     img {
       border-radius: 50px 50px 50px 50px;
       float: left;
-      width: 35px;
-      height: 35px;
+      width: 36px;
+      height: 36px;
+      margin-left:-10px;
     }
     /* pricing on menu list*/
     nav p {
@@ -202,6 +206,7 @@
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
+  
     cursor: pointer;
   }
   
@@ -218,7 +223,7 @@
     background-color: #fbfbfb;
     padding: 20px;
     width: 250px;
-    height: 350px;
+    height: 370px;
   }
   
   .phone {
